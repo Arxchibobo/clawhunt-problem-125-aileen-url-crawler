@@ -1,0 +1,5 @@
+url,status_code,title,h1,meta_description,word_count,links_count,crawled_at
+https://example.com,200,Example Domain,Example Domain,,21,1,2026-04-17T08:53:41.096705Z
+https://httpbin.org/html,200,,Herman Melville - Moby-Dick,,624,0,2026-04-17T08:53:41.227372Z
+https://www.iana.org/domains/reserved,200,IANA-managed Reserved Domains,IANA-managed Reserved Domains,,392,66,2026-04-17T08:53:41.273033Z
+https://httpbin.org/links/5,200,Links,,,6,4,2026-04-17T08:53:41.607515Z

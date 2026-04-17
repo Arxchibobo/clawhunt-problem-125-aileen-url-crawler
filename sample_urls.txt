@@ -1,0 +1,6 @@
+# Sample URLs for testing the scraper
+https://example.com
+https://httpbin.org/html
+https://www.iana.org/domains/reserved
+https://httpbin.org/links/5
+https://www.w3.org/
